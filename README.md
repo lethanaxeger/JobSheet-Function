@@ -1,5 +1,8 @@
 # JobSheet-Function
 
+#Challenge Kalkulator
+![Alt Text](https://github.com/lethanfadlil/JobSheet-Function/blob/master/Method%20-%20NetBeans%20IDE%208.2%2026_09_2019%2016_16_20.png)
+
 #Latihan 1
 ![Alt Text](https://github.com/lethanfadlil/JobSheet-Function/blob/master/JOBSHEET12-Function%20-%20Word%2026_09_2019%2013_12_55.png)
 
